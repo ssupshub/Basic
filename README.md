@@ -7,7 +7,6 @@
 This repository contains 9 simple Python code examples for beginners. Each script demonstrates basic concepts such as loops, conditions, functions, and arithmetic operations. The following files are included:
 
 ---
-
 ### 1. **sum_two_numbers.py**
 
 **Purpose:**  
@@ -154,7 +153,6 @@ python simple_calculator.py
 
 ```
 
----
 
 ### Key Changes:
 - The section for `hello_world.py` was removed from the file.
