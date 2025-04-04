@@ -1,5 +1,4 @@
 
-### **README.md**
 
 ```markdown
 # Simple Python Code Examples
@@ -7,6 +6,7 @@
 This repository contains 9 simple Python code examples for beginners. Each script demonstrates basic concepts such as loops, conditions, functions, and arithmetic operations. The following files are included:
 
 ---
+
 ### 1. **sum_two_numbers.py**
 
 **Purpose:**  
@@ -148,14 +148,5 @@ python simple_calculator.py
    ```
 
    Replace `filename.py` with the name of the script you want to run.
-
-
-
 ```
 
-
-### Key Changes:
-- The section for `hello_world.py` was removed from the file.
-- The remaining sections remain unchanged. 
-
-You can save this updated version as your `README.md`.
