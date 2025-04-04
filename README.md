@@ -1,9 +1,8 @@
 
 
-```markdown
+```
 # Simple Python Code Examples
 
-This repository contains 9 simple Python code examples for beginners. Each script demonstrates basic concepts such as loops, conditions, functions, and arithmetic operations. The following files are included:
 
 ---
 
